@@ -10,6 +10,7 @@
         }
     ],
     "minimum-stability": "stable",
+    "homepage": "https://github.com/heaton21/router",
     "require": {
         "php": "^7.0"
     },
