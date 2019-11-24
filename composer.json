@@ -2,7 +2,6 @@
     "name": "heaton21/router",
     "description": "easy router",
     "type": "library",
-    "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
