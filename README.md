@@ -15,8 +15,8 @@ $route->setNamespace('App\\Http\\Controllers\\')->setMiddlewareNamespace('App\\H
 
 Пример подстановочных знаков:
 
-- `/page/:seg` - любые символы в одном сегменте, такие как `/page/qwerty` или `/page/123`;
-- `/page/:num` - цифры только нравятся `/page/123`;
+- `/page/:slug` - любые символы в одном сегменте, такие как `/page/qwerty` или `/page/123`;
+- `/page/:id` - цифры только нравятся `/page/123`;
 - `/page/:any` - любые символы, такие как `/page/qwerty` или `/page/qwerty/123`;
 
 Начать обработку маршрута.
